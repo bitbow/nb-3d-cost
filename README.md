@@ -13,7 +13,7 @@
 Para instalar la aplicación en tu celular Android, sigue estos pasos:
 
 1.  **Descarga el APK:** Haz clic en el enlace de abajo desde tu celular:
-    [⬇️ Descargar nb3dcost.apk](https://github.com/bitbow/nb-3d-cost/blob/main/nb3dcost-debug.apk)
+    [⬇️ Descargar nb3dcost.apk](https://github.com/bitbow/nb-3d-cost/raw/main/nb3dcost-debug.apk)
 2.  **Autorizar Instalación:** Si Android muestra un aviso de seguridad, selecciona "Instalar de todas formas" o activa la opción de "Confiar en esta fuente" en los ajustes de tu navegador o explorador de archivos.
 3.  **¡Listo!** Abre la app y comienza a optimizar tus costos.
 
